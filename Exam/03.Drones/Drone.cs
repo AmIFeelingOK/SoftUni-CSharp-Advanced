@@ -3,8 +3,7 @@
 namespace Drones
 {
     public class Drone
-    {
-        //Edit        
+    {       
         public string Name { get; set; }
         public string Brand { get; set; }
         public int Range { get; set; }
